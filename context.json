@@ -1,0 +1,188 @@
+{
+    "AMZN": {
+        "chat_gpt": "Amazon.com, Inc. will benefit from increased online sales of golf equipment and apparel.",
+        "claude": "Amazon.com, Inc. sells a wide range of golf equipment, apparel, and accessories through its e-commerce platform. As golf participation increases, Amazon could benefit from higher sales of golf-related products.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "DE": {
+        "chat_gpt": "Deere & Company, through its John Deere brand, supplies golf course maintenance equipment, benefiting from increased golf course activity.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "DIS": {
+        "chat_gpt": "The Walt Disney Company, through its ESPN network, will benefit from broadcasting more golf events.",
+        "claude": "The Walt Disney Company owns ESPN, which broadcasts golf tournaments and provides golf-related content. As golf gains popularity, ESPN could benefit from increased viewership and advertising revenue from its golf coverage.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "GOLF": {
+        "chat_gpt": "Acushnet Holdings Corp, the parent company of Titleist and FootJoy, stands to gain from higher demand for golf balls, clubs, and apparel.",
+        "claude": "Acushnet Holdings Corp. is a leading golf equipment and apparel company, owning brands such as Titleist and FootJoy. The company's focus on premium golf products and its strong brand recognition make it a potential beneficiary of the golf boom.",
+        "search_articles": [
+            {
+                "url": "https://swingtradebot.com/stocks-tagged-as/2138-golf",
+                "title": "Golf Stocks List Ranked for 2024 | NYSE, NASDAQ",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://finbold.com/guide/best-golf-stocks-to-buy/",
+                "title": "Best Golf Stocks to Buy in 2024 | Step-by-Step",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/2023/05/20/is-it-time-to-buy-golf-stocks/",
+                "title": "Is It Time to Buy Golf Stocks?",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/JSpitTrades/status/1797414111875142007",
+                "text": "$GOLF is for the golf lovers.\n\n$4.2 owns Titleist, FootJoy, Scotty Cameron putters, Pinnacle, and a few other brands.\n\nSetting up really nicely on the weekly. Four consecutive weekly closes above its 10-week. Starting to climb out of multi-month base.\n\n18% short interest, which seems idiotic based on the game's surging popularity.\n\nTime to squeeze these haters?",
+                "username": "JSpitTrades",
+                "user_url": "https://twitter.com/JSpitTrades",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1547400216646717441/ZPI_yqBp_normal.jpg",
+                "date": "2024-06-02T23:44:53Z"
+            },
+            {
+                "url": "https://twitter.com/owo_nft/status/1794681552976093379",
+                "text": "WIth the narrative of $MAGA, $GOLF mght be a great play here :\n- Dextools updated : https://t.co/VDCAYq9Iwa\n- 0/0 tax\n- Burned & renounced\n- CA : 0x1979f13bc93ac74106469b7ca8b9081359131986\n\nNarrative :\n\"One of Donald Trump's favorite hats, from one of Donald Trump's favorite golf courses. They don't make 'em like this anymore.\n\nDonald J. Trump has been a member of the Winged Foot Golf Club since 1975, and it's one of his favorite spots aside from Mara-La-Go.\n\nHe's frequented the Mamaroneck, NY golf course throughout the years and shown off his membership wearing the club's esteemed 1979 neon pink fitted cotton snapback hat at golf tournaments & club events.\n\nExperience the 45th President of the United States at a point in his life when he wasn't so well known. Also, the perfect gift for your Trump supporting family members.\n\nExclusive, vintage, and only for a limited time on MemesToLife. Get this product now and experience history before it's too late!\"",
+                "username": "owo_nft",
+                "user_url": "https://twitter.com/owo_nft",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1753451268608057344/kK1CWNEy_normal.jpg",
+                "date": "2024-05-26T10:46:40Z"
+            },
+            {
+                "url": "https://twitter.com/Bilaxy_exchange/status/1794686512983843212",
+                "text": "\"On-Chain New Token Push Service\" was triggered at 11:06 on May 26.\nhttps://t.co/5ct7WzXyrw\n\n$SVNN $GOLF\n\nThe Contracts and Twitters may NOT match, only for reference, NOT for finance advice. https://t.co/rMLKyz01BX",
+                "username": "Bilaxy_exchange",
+                "user_url": "https://twitter.com/Bilaxy_exchange",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1144105367435005952/2L-KEmdk_normal.png",
+                "date": "2024-05-26T11:06:23Z"
+            }
+        ],
+        "experts": []
+    },
+    "MC": {
+        "chat_gpt": "LVMH Mo\u00ebt Hennessy Louis Vuitton, through its TAG Heuer brand, produces luxury golf watches and accessories.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "NKE": {
+        "chat_gpt": "Nike, Inc. produces golf apparel and footwear, benefiting from the sport's growing popularity.",
+        "claude": "Nike is a leading sports apparel and footwear company with a significant presence in the golf market. The company's golf shoes and apparel, endorsed by professional golfers, could see increased demand as more people take up the sport.",
+        "search_articles": [
+            {
+                "url": "https://swingtradebot.com/stocks-tagged-as/2138-golf",
+                "title": "Golf Stocks List Ranked for 2024 | NYSE, NASDAQ",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.thestockdork.com/golf-stocks/",
+                "title": "The 6 Best Golf Stocks To Buy Now",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "VSTO": {
+        "chat_gpt": "Vista Outdoor Inc. owns Bushnell Golf, a leading provider of golf rangefinders and GPS devices.",
+        "claude": "Vista Outdoor Inc. owns Bushnell, a leading manufacturer of golf rangefinders and GPS devices. With more people playing golf, demand for Bushnell's products, which help golfers improve their game, could increase.",
+        "search_articles": [
+            {
+                "url": "https://finbold.com/guide/best-golf-stocks-to-buy/",
+                "title": "Best Golf Stocks to Buy in 2024 | Step-by-Step",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.thestockdork.com/golf-stocks/",
+                "title": "The 6 Best Golf Stocks To Buy Now",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "DKS": {
+        "chat_gpt": null,
+        "claude": "Dick's Sporting Goods is a major retailer of golf equipment and apparel in the United States. As golf participation increases, Dick's is likely to see higher sales in its golf segment, which includes clubs, balls, and accessories from various brands.",
+        "search_articles": [
+            {
+                "url": "https://swingtradebot.com/stocks-tagged-as/2138-golf",
+                "title": "Golf Stocks List Ranked for 2024 | NYSE, NASDAQ",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://finbold.com/guide/best-golf-stocks-to-buy/",
+                "title": "Best Golf Stocks to Buy in 2024 | Step-by-Step",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.thestockdork.com/golf-stocks/",
+                "title": "The 6 Best Golf Stocks To Buy Now",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "MODG": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://swingtradebot.com/stocks-tagged-as/2138-golf",
+                "title": "Golf Stocks List Ranked for 2024 | NYSE, NASDAQ",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/2023/05/20/is-it-time-to-buy-golf-stocks/",
+                "title": "Is It Time to Buy Golf Stocks?",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.cnbc.com/quotes/MODG",
+                "title": "MODG: Topgolf Callaway Brands Corp - Stock Price, Quote ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "GENI": {
+        "chat_gpt": null,
+        "claude": "Genius Sports Limited provides data and technology services to sports leagues, including the PGA Tour. As golf gains popularity, Genius Sports could benefit from increased demand for its data analytics and fan engagement solutions in the golf market.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "LULU": {
+        "chat_gpt": null,
+        "claude": "Lululemon Athletica is a premium athletic apparel company that has recently entered the golf market with its golf-specific clothing line. The company's focus on comfort, performance, and style could resonate with the growing number of golfers.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "TTWO": {
+        "chat_gpt": null,
+        "claude": "Take-Two Interactive Software, Inc. publishes the popular PGA Tour 2K video game series. As golf gains popularity, the company could benefit from increased sales of its golf video games, which offer realistic gameplay and licensed courses.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "UA": {
+        "chat_gpt": null,
+        "claude": "Under Armour is a sports apparel and footwear company that has been expanding its presence in the golf market. The company's golf apparel, designed for performance and comfort, may appeal to the growing number of golfers.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    }
+}
