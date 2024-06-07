@@ -1,9 +1,7 @@
 symbol,sources
-AMZN,"chat_gpt,claude"
 DE,chat_gpt
 DIS,"chat_gpt,claude"
 GOLF,"chat_gpt,twitter,google,claude"
-MC,chat_gpt
 NKE,"chat_gpt,google,claude"
 VSTO,"chat_gpt,google,claude"
 DKS,"google,claude"
