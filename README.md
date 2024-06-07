@@ -55,11 +55,9 @@ with open('theme.csv') as file:
 ]]]-->
 | Ticker  | Context | Source |
 | ------- | ---- | ---- |
-| AMZN | Amazon.com, Inc. will benefit from increased online sales of golf equipment and apparel. | chat_gpt,claude |
 | DE | Deere & Company, through its John Deere brand, supplies golf course maintenance equipment, benefiting from increased golf course activity. | chat_gpt |
 | DIS | The Walt Disney Company, through its ESPN network, will benefit from broadcasting more golf events. | chat_gpt,claude |
 | GOLF | Acushnet Holdings Corp, the parent company of Titleist and FootJoy, stands to gain from higher demand for golf balls, clubs, and apparel. | chat_gpt,twitter,google,claude |
-| MC | LVMH Moët Hennessy Louis Vuitton, through its TAG Heuer brand, produces luxury golf watches and accessories. | chat_gpt |
 | NKE | Nike, Inc. produces golf apparel and footwear, benefiting from the sport's growing popularity. | chat_gpt,google,claude |
 | VSTO | Vista Outdoor Inc. owns Bushnell Golf, a leading provider of golf rangefinders and GPS devices. | chat_gpt,google,claude |
 | DKS | Dick's Sporting Goods is a major retailer of golf equipment and apparel in the United States. As golf participation increases, Dick's is likely to see higher sales in its golf segment, which includes clubs, balls, and accessories from various brands. | google,claude |
